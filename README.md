@@ -1,4 +1,4 @@
-# esc_pos_utils
+# indees_esc_pos_utils
 
 [![Pub Version](https://img.shields.io/pub/v/esc_pos_utils)](https://pub.dev/packages/esc_pos_utils)
 
